@@ -23,7 +23,7 @@ From a sample of 10 students, only 1 was a comp major. That student rated the co
 Below are several charts illustrating data from the entire survey.
 <img src="/-marin-comp110-spring26-/static/imgs/valuble.png" alt="Measure of Value" width="300"/>
 <img src="/-marin-comp110-spring26-/static/imgs/interesting.png" alt="Measure of Interest" width="300"/>
-<img src="/-marin-comp110-spring26-/static/imgs/PE" alt="Measure of Programming Effectiveness" width="300"/>
+<img src="/-marin-comp110-spring26-/static/imgs/PE.png" alt="Measure of Programming Effectiveness" width="300"/>
 
 As you can see, these graphs support the analysis derived from the smaller sample. The non-comp majors rate the course lower in value and interest, but higher in programming effectiveness, than the comp majors. 
 
