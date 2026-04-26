@@ -29,7 +29,7 @@ github_username:  marmck27
 
 # Build settings
 # Build settings
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/merlot@v0.2.0
 
 
 

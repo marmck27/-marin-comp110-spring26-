@@ -19,8 +19,12 @@ I pulled survey data from both sections (Izzi's and Alyssa's) of COMP 110 and lo
 
 From a sample of 10 students, only 1 was a comp major. That student rated the course higher in value and interest (6 and 5 respectively), than the 9 other non-comp students (avg of ~4.3 and 4.1 respectively). However, the non-comp majors rated the programming exercises more effective (~5.4) than the comp major (5). 
 
+I dug deeper by writing a code to figure out how many non-comp-major-students surveyed rated the class above average (5 on a 10 point scale) for value and interest. Of 764 students surveyed, only 306 rated value above 5 (~40.4%), and only 227 rated interest above 5 (~29.7%). 
+
 ## Charts 
+
 Below are several charts illustrating data from the entire survey.
+
 <img src="/-marin-comp110-spring26-/static/imgs/valuble.png" alt="Measure of Value" width="300"/>
 <img src="/-marin-comp110-spring26-/static/imgs/interesting.png" alt="Measure of Interest" width="300"/>
 <img src="/-marin-comp110-spring26-/static/imgs/PE.png" alt="Measure of Programming Effectiveness" width="300"/>
@@ -30,4 +34,6 @@ As you can see, these graphs support the analysis derived from the smaller sampl
 ## Conclusion
 My analysis supports my idea that more programming exercises like ex03 should be implemented in COMP 110. Because non-comp majors found programming exercises effective, but rated the course lower in value and interest, by adding more exercises like Wordle that connect CS to fun, real-world appications that we interact with everyday, the course could improve engagement for non-CS majors. 
 
-However, there are limitations to this analysis. Students were not asked directly what they find interesting or valuble. Future surverys should include questions like these to better support my idea. 
+However, adding more exercises like ex03 requires significant instructor time and resources to deisgn. It may also slow down the pace of the course, which could negatively impact comp majors. 
+
+In the future, it would be valuable to survey students specifically on which real-world applications they find interesting (gaming, social media, healthcare, etc.) so that future exercises can be tailored to student interests.
