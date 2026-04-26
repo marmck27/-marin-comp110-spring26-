@@ -29,7 +29,8 @@ github_username:  marmck27
 
 # Build settings
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman
+
 
 
 plugins:
