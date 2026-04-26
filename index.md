@@ -6,7 +6,7 @@ layout: default
 # Marin's COMP 110 Website
 
 ## About Me
-<img src="/marin-comp110-spring26/static/imgs/marin.jpg" alt="Photo of Me!" width="300">
+<img src="/marin-comp110-spring26/static/imgs/marin.jpg" alt="Photo of Me!" width="300"/>
 
 Hi! I'm Marin, an Economics major at UNC Chapel Hill. This website is my final project for COMP 110. It's been an amazing semester, and I've learned so much. Thank you to my instructional staff for a great year!
 
@@ -21,9 +21,9 @@ From a sample of 10 students, only 1 was a comp major. That student rated the co
 
 ## Charts 
 Below are several charts illustrating data from the entire survey.
-<img src="/marin-comp110-spring26/static/imgs/valuble.png" alt="Measure of Value" width="300">
-<img src="/marin-comp110-spring26/static/imgs/interesting.png" alt="Measure of Interest" width="300">
-<img src="/marin-comp110-spring26/static/imgs/PE" alt="Measure of Programming Effectiveness" width="300">
+<img src="/marin-comp110-spring26/static/imgs/valuble.png" alt="Measure of Value" width="300"/>
+<img src="/marin-comp110-spring26/static/imgs/interesting.png" alt="Measure of Interest" width="300"/>
+<img src="/marin-comp110-spring26/static/imgs/PE" alt="Measure of Programming Effectiveness" width="300"/>
 
 As you can see, these graphs support the analysis derived from the smaller sample. The non-comp majors rate the course lower in value and interest, but higher in programming effectiveness, than the comp majors. 
 
